@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "Первый релиз с авто-обновлением. Все следующие версии будут устанавливаться автоматически.",
-  "pub_date": "2026-04-08T00:05:57Z",
+  "version": "0.3.1",
+  "notes": "Убрал упоминания технических деталей из интерфейса настроек. Функциональных изменений нет.",
+  "pub_date": "2026-04-08T02:19:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRlAxVytjRUljL2pueWIvQ09rc1h1eU1Kd0pxYjR1SGxmOE1QQlhscmF0MzJXQkxEU2xtbnorUU1HSEVXeDVwMkh6TUdmSkV0aVRvRDFxWndpb25SY0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTk2NzU3CWZpbGU6RWNob0Zsb3dfMC4zLjBfeDY0LXNldHVwLmV4ZQpxWm05dGtZVzhtNkJoajJPU000cldvbDAxQno3SUQ4a0U0U0o0VzFjOHIyRENFUVVBYkJySDAxR1V4ZWhkaEppUm1zemsyc2V3eDlJY0NaeXNDN0JEQT09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.3.0/EchoFlow_0.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkFHdERNbm9LSGVYN3BIYVBuUUc3WkgyLzd0YUU4MDNJS0xJWWRvWmI1T1FIejZLMGVrOHdHWkZKMDdvZ0R1UFFXclQyVjJJNEQ2cndTWllSaFZFS2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjA2MzQzCWZpbGU6RWNob0Zsb3dfMC4zLjFfeDY0LXNldHVwLmV4ZQpoSFRBWGlBOGJreElqN3h2VHh6YStCbDhLdWUyRGVqZ2QzWTdFejB4R216MVplekkzdkxSK1RWcGJ4bks4NTNWQlZLQ0RQQWg2c3VsaWxESzNUQnRCdz09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.3.1/EchoFlow_0.3.1_x64-setup.exe"
     }
   }
 }
