@@ -1,6 +1,6 @@
 {
   "version": "0.3.2",
-  "notes": "РСЃРїСЂР°РІР»РµРЅС‹ РіРѕСЂСЏС‡РёРµ РєР»Р°РІРёС€Рё: Alt+S, Alt+D, Ctrl+D, Ctrl+R, F9, F10 С‚РµРїРµСЂСЊ СЂР°Р±РѕС‚Р°СЋС‚ РєРѕСЂСЂРµРєС‚РЅРѕ.",
+  "notes": "Fixed hotkeys: Alt+S, Alt+D, Ctrl+D, Ctrl+R, F9, F10 now work correctly.",
   "pub_date": "2026-04-10T20:06:45Z",
   "platforms": {
     "windows-x86_64": {
