@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "notes": "Fixed hotkeys: Alt+S, Alt+D, Ctrl+D, Ctrl+R, F9, F10 now work correctly.",
-  "pub_date": "2026-04-10T20:06:45Z",
+  "version": "0.3.3",
+  "notes": "Fixed: hotkeys now apply instantly without restart. Tray menu shows actual hotkey.",
+  "pub_date": "2026-04-10T20:45:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkhxWWJwOGs1cjFrczJGSkkzTW4zTGtuZWlURjJHaDJaaTF0YndrVU1yVmUvOUM1Q3drWFRqWFBNMFFLT3ZkNGRBMHFlcjZqS29mVTlyQmRuaHVLWWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODUyMDA1CWZpbGU6RWNob0Zsb3dfMC4zLjJfeDY0LXNldHVwLmV4ZQpYd0VXOHFpNmhabnN2UllTSlBZa1RJbjNDcjlxZkdpQThST2pPMm55NkYyeHcvTDFkbkNkbjd3ZE5jckVCYlpHYTdlSTVBa09XWVNnWmYrMXk0bDdCdz09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.3.2/EchoFlow_0.3.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkJiT3d5TlZKeVNqemV2V2Z2YWQ3dnQzUXJFMGhob1JmeVU2K1JvSnVJM3JxNjk3M3ZuQ0kxNWx2d1I1bFhOa0ZST01PUDZTQU5udENWeC9mZ2hYSkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODU0MzIyCWZpbGU6RWNob0Zsb3dfMC4zLjNfeDY0LXNldHVwLmV4ZQp5OHFnOEV3MHZoN2lUUmtuMElUZTRrbHJURis1WnVNaHpUVVg4Qi9TVVloRm1KM3c5ZnU3Rm5GOXBRYWEybHFTMUxGd3ArR09oQWxjc2J4ZGZ4b0lEUT09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.3.3/EchoFlow_0.3.3_x64-setup.exe"
     }
   }
 }
