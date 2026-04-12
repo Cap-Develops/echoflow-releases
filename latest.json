@@ -1,11 +1,11 @@
 {
-  "version": "0.3.5",
-  "notes": "Критичный фикс: STT-модель теперь корректно находится из установщика на любой машине. Фикс зависания Telegram Web/Gmail/Discord. Failsafe против залипания UI при ошибках pipeline.",
-  "pub_date": "2026-04-11T20:09:52Z",
+  "version": "0.3.6",
+  "notes": "GigaChat-2-Max + Vocabulary (80 терминов) + max_tokens 2048",
+  "pub_date": "2026-04-12T11:37:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkRxVEQ1WFA0L2dON29rd2xET29VdWVrRm0zSEdtVWNYK3NvZDBOcmhSUWJjTThkUDZ4eTdCOGFrUHJHanVSZkp6bU82TE5KeEdOVmZDZmFWWm14cHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTM4MTE0CWZpbGU6RWNob0Zsb3dfMC4zLjVfeDY0LXNldHVwLmV4ZQo0YURmNzNCS0swUUoyNGYxUXMxMXNicysrNnJsN1ZrRDBKOWxnNmQ0V1NQL2FHOExTNGlPM01hQWJqZGQxbzZmR3NNeGlLdFljWWNxN1F3QWhVZ3VEQT09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.3.5/EchoFlow_0.3.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRktFOHVqeEUzUDZpR2hPU3JIRTE5TjZFa1oyK0FHRkRRc0J1ZU9ld0hnaTBWS21KaTVHMS9PRHlSamxOVU9nbmc3Qk1GYWxkTm83V1RpYzBwRDRmWndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTkzODA2CWZpbGU6RWNob0Zsb3dfMC4zLjZfeDY0LXNldHVwLmV4ZQp2a1dISU9VRGNXRllCL3AzZmZNdmtkQ2pxM20yTmh6NnFFSjRFZEJXcGZHK3krSVJjdEwyZDJrQUs5bHE0OERZWDNCdXc0S3BFRjRqR1ZBMTFPaXpDdz09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.3.6/EchoFlow_0.3.6_x64-setup.exe"
     }
   }
 }
