@@ -1,10 +1,10 @@
 {
   "version": "0.3.7",
   "notes": "Polish (Shift+Win), стили текста, словарь, статистика, 70+ автозамен",
-  "pub_date": "2026-04-13T19:55:49Z",
+  "pub_date": "2026-04-13T20:05:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRk8yT1ovOVZHVS9RZkNCb0FBVnZUVXhkUDFGa3Z5RUdpRUlkSW9LQlg2c1lhYm4vTUozbGx1eWsxVGJpbjk1cTd5ZENnLzZzUDcvc3pOUFRVOGsvWndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTEwMDMwCWZpbGU6RWNob0Zsb3dfMC4zLjdfeDY0LXNldHVwLmV4ZQpwWGlSdTVud1pNK05GOS9MemZrYzJMSmJMZTB3YVIzK1MxSWZoSDBKR0ttVkVHSTZaUnUxNEMrT3dRR3NkRVVSWXM0MDQzNy9hcHl0SlZuTjhXRXdDQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkNjTDhwWlliQUlqMW1odkoyTDc1Yk42WUJyOWw1QUZRK2dsNmxwTmxiMkFMOW5qV09XbmpUVjY2RUJReklua2k1NUl1TUZBdkZWak0zQUxTdjNKWVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTEwNjIyCWZpbGU6RWNob0Zsb3dfMC4zLjdfeDY0LXNldHVwLmV4ZQowQ2FtcDJtRVAzZFhoc3oyMVlLMmFTdUZzODdhd0NmWE96V3Q3b0Y1NFI4NHNDc2lGNFhFOCtOVFNHTlB4ZkQyakxXeXVueTNEcGJ4SDhNU1QxS05DZz09Cg==",
       "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.3.7/EchoFlow_0.3.7_x64-setup.exe"
     }
   }
