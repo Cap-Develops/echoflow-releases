@@ -1,11 +1,11 @@
 {
-  "version": "0.3.6",
-  "notes": "GigaChat-2-Max + Vocabulary (80 терминов) + max_tokens 2048",
-  "pub_date": "2026-04-12T11:37:33Z",
+  "version": "0.3.7",
+  "notes": "Polish (Shift+Win), стили текста, словарь, статистика, 70+ автозамен",
+  "pub_date": "2026-04-13T19:55:49Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRktFOHVqeEUzUDZpR2hPU3JIRTE5TjZFa1oyK0FHRkRRc0J1ZU9ld0hnaTBWS21KaTVHMS9PRHlSamxOVU9nbmc3Qk1GYWxkTm83V1RpYzBwRDRmWndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTkzODA2CWZpbGU6RWNob0Zsb3dfMC4zLjZfeDY0LXNldHVwLmV4ZQp2a1dISU9VRGNXRllCL3AzZmZNdmtkQ2pxM20yTmh6NnFFSjRFZEJXcGZHK3krSVJjdEwyZDJrQUs5bHE0OERZWDNCdXc0S3BFRjRqR1ZBMTFPaXpDdz09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.3.6/EchoFlow_0.3.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRk8yT1ovOVZHVS9RZkNCb0FBVnZUVXhkUDFGa3Z5RUdpRUlkSW9LQlg2c1lhYm4vTUozbGx1eWsxVGJpbjk1cTd5ZENnLzZzUDcvc3pOUFRVOGsvWndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTEwMDMwCWZpbGU6RWNob0Zsb3dfMC4zLjdfeDY0LXNldHVwLmV4ZQpwWGlSdTVud1pNK05GOS9MemZrYzJMSmJMZTB3YVIzK1MxSWZoSDBKR0ttVkVHSTZaUnUxNEMrT3dRR3NkRVVSWXM0MDQzNy9hcHl0SlZuTjhXRXdDQT09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.3.7/EchoFlow_0.3.7_x64-setup.exe"
     }
   }
 }
