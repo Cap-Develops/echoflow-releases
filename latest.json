@@ -1,11 +1,11 @@
 {
-  "version": "0.3.7",
-  "notes": "Polish (Shift+Win), стили текста, словарь, статистика, кнопка обновлений",
-  "pub_date": "2026-04-13T20:12:10Z",
+  "version": "0.3.8",
+  "notes": "Редизайн настроек и Правки, Правка вместо Polish, всплывашка обновлений, ты/вы в стилях",
+  "pub_date": "2026-04-15T06:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRks3cE4vSzZZOU9WMDNIZzBJdXZqWVVjZy9taUR2SUVzVXpDZmFqMko0R1VzR1NGVE1Fc09vK2ZFc29QYTBmdXNVN3FQSm1kWFd2b1Z5bGEwT1hEa3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTExMDM4CWZpbGU6RWNob0Zsb3dfMC4zLjdfeDY0LXNldHVwLmV4ZQpsdkovRDl6OUVsblc1NjdTUXFqUUsxSkxMVlc5NXlNeVRFYjMyMnpmbU9Sd0Mzckk4WFIxdFQvOG5YeGFjMVk2MGxNSTYydnc1WkdlOTN5WnpLQjRDdz09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.3.7/EchoFlow_0.3.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkZuTFVPMldaSzl3bDZVNGVwMUc4QzMwQlZ2VFduSkI1NksxcFM2b1BFc09KMUh5bisxRWlzb2ZBSWdoSnkvQmRmaUoyT3dySnVINE84SkxoYWowclFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTUwNDQ1CWZpbGU6RWNob0Zsb3dfMC4zLjhfeDY0LXNldHVwLmV4ZQpldHBCRjVDM3d5SmpkUUlhN2h5T3hIUlJFK2wvNVBpMmVoZEFpL0dmQkxHTVN1bVp1MGRUcGNUT0J2c0dUM3AyMVIxN0ROWGJnbHQ0YS91ajJERkhEQT09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.3.8/EchoFlow_0.3.8_x64-setup.exe"
     }
   }
 }
