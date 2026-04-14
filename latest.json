@@ -1,11 +1,11 @@
 {
-  "version": "0.4.2",
-  "notes": "Native dark titlebar, мгновенный хоткей (кеш подписки), крестик → трей, sticky footer, min-size 720×620",
-  "pub_date": "2026-04-15T12:10:00Z",
+  "version": "0.4.3",
+  "notes": "Надёжный цикл оплаты: мгновенный refresh, fallback проверка через ЮKassa API, напоминание за 3 дня до конца trial",
+  "pub_date": "2026-04-15T12:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkJIMXBzT0N2NVk5RmxpMWxQZFJaaG5FTVFkZVllOUV3c3dZWnRzU1MyK2Q1QWdWb0NIMnlaa3FzK1pXVUp4TUdjT2tBSGcxQ09yc3pFUjNGYkVJcVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTY4NjQyCWZpbGU6RWNob0Zsb3dfMC40LjJfeDY0LXNldHVwLmV4ZQp4OUxiS3NHNjNTSXpKVm1lZzk0VmpVamFwVnhRN29RdXZOczZ4ZjNSdnVkQktJTkRZSFpQUjRxWnpJK2x1SzNVLzM2ZklYNkhVak5TTTB5ZkN4Y1ZCUT09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.4.2/EchoFlow_0.4.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkpNNFBlbEsxOUQ3K3MwWFFGTVczdXl2ZXpDRm5JbWhqOUV0RGVmeVNkbWVGU2lvbTdKdWEyZmxSbWpvRzdvMDV5dG42d212allGMS9EUVp0bmxyT1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTcxNzQ1CWZpbGU6RWNob0Zsb3dfMC40LjNfeDY0LXNldHVwLmV4ZQpZT0FYN29BWTV6SzRPc0pJbnB3d2pWbEJRTlZubE1rOTBzbjQwSWdKWHJ6dWdjcktEM0RRbzhiTzA0YlVmcUZPeEV4ZmxuOFNORHNiRzN0S05Kd0VDZz09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.4.3/EchoFlow_0.4.3_x64-setup.exe"
     }
   }
 }
