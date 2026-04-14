@@ -1,11 +1,11 @@
 {
-  "version": "0.4.4",
-  "notes": "Оплата через брендированную страницу echoflow.ru/pay с принятием оферты",
-  "pub_date": "2026-04-15T13:45:00Z",
+  "version": "0.5.0",
+  "notes": "Installer 8.7 МБ (был 163 МБ): STT-модель скачивается при первом запуске",
+  "pub_date": "2026-04-15T14:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRktuc2xhNnAvcGUrMnBsek5DVEx0ZnJHWm1acEM0Qi9VdlZvK3hGczByejA4R0orditvZXE0RFBhQ1VidEhFMC9xY0RTbGJteGc5ZHVnZWoreHIrNFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTc0NDgxCWZpbGU6RWNob0Zsb3dfMC40LjRfeDY0LXNldHVwLmV4ZQpBVUhLZ3VqeEoyZnZEK0NuU3o5NHN4L2tZdXZNVWdia3F5SFM3Yk5ZYm5zUHZQZzR0Z2dNbXAyblBlY2ljTDhlTHlJcGNaclpncW14NHpSVmcwdWxCZz09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.4.4/EchoFlow_0.4.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkpvdExBVzE0VUoyZFRGVG8yQXhjZlpFZEZnd290WC9yVzk5N3NpVjk3cHZUbCtzeU5sNXFzdXdsYzZDZzNHbFhYTmZXS0d1UzZsODRxZGJFZENpdndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTc4NDE1CWZpbGU6RWNob0Zsb3dfMC41LjBfeDY0LXNldHVwLmV4ZQpubWJOdVBVWXdvUzRtd0ZRTkt3WlZTcytTUUg2NFVVRkZMOE1zOTlwNGQ4VjF4dHU1TzByaitvZ2JLclZhdTRVNHlNUjE4NWM0cUFxcTJPV21IbXpEdz09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.5.0/EchoFlow_0.5.0_x64-setup.exe"
     }
   }
 }
