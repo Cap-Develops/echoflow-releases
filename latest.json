@@ -1,11 +1,11 @@
 {
-  "version": "0.3.9",
-  "notes": "Фикс белого экрана при закрытии настроек",
-  "pub_date": "2026-04-15T07:46:00Z",
+  "version": "0.3.10",
+  "notes": "Окно настроек открывается при запуске (иконка в taskbar), крестик прячет в трей",
+  "pub_date": "2026-04-15T07:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkVyWGp6QVdhcDZyeVZiVFNuY1RZVlFFbEFMQ2tEUEJReHJHYzVuQm5SaEovdXBwUEFyQXNvcWNoMTRTZk9HMVBaNnNvbFFRZm1kMEFnc3UvRlJieUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTUyNzU4CWZpbGU6RWNob0Zsb3dfMC4zLjlfeDY0LXNldHVwLmV4ZQpZTWo2NVh0WXVtOERmVXVIaFRiNkRmNW90QkdVQkx3d3NmOEJ3QkM5bFhuaW1RR1FaQmh3Vm9pdUxCR2NNSlBVbFllZXBaMCtZbFl1R2NHWndTdUNBZz09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.3.9/EchoFlow_0.3.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRk44OWhSTGZvZEVleXoxUjR2ejRrQm5KeGpFd1MvMTF3VG5RUm9Id0RGM2ttQ1ovcjlPaWx6V09DTXdwbFg1NVUxdE4rZDVmNVB6UVR3Q0ZNYXpJWEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTUzMjQwCWZpbGU6RWNob0Zsb3dfMC4zLjEwX3g2NC1zZXR1cC5leGUKTFU0c3FRSVhOcEtiK3NSNmZLc2NnQTllWjUvZHFnQm5SU0ZwZkpvNTcwRW5TUDRKVHo4dHZhcFdNOGhEVTdKb0lncFJQWlNwbDJlU2lrYkhmclh2Q1E9PQo=",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.3.10/EchoFlow_0.3.10_x64-setup.exe"
     }
   }
 }
