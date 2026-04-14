@@ -1,11 +1,11 @@
 {
-  "version": "0.4.3",
-  "notes": "Надёжный цикл оплаты: мгновенный refresh, fallback проверка через ЮKassa API, напоминание за 3 дня до конца trial",
-  "pub_date": "2026-04-15T12:55:00Z",
+  "version": "0.4.4",
+  "notes": "Оплата через брендированную страницу echoflow.ru/pay с принятием оферты",
+  "pub_date": "2026-04-15T13:45:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkpNNFBlbEsxOUQ3K3MwWFFGTVczdXl2ZXpDRm5JbWhqOUV0RGVmeVNkbWVGU2lvbTdKdWEyZmxSbWpvRzdvMDV5dG42d212allGMS9EUVp0bmxyT1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTcxNzQ1CWZpbGU6RWNob0Zsb3dfMC40LjNfeDY0LXNldHVwLmV4ZQpZT0FYN29BWTV6SzRPc0pJbnB3d2pWbEJRTlZubE1rOTBzbjQwSWdKWHJ6dWdjcktEM0RRbzhiTzA0YlVmcUZPeEV4ZmxuOFNORHNiRzN0S05Kd0VDZz09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.4.3/EchoFlow_0.4.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRktuc2xhNnAvcGUrMnBsek5DVEx0ZnJHWm1acEM0Qi9VdlZvK3hGczByejA4R0orditvZXE0RFBhQ1VidEhFMC9xY0RTbGJteGc5ZHVnZWoreHIrNFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTc0NDgxCWZpbGU6RWNob0Zsb3dfMC40LjRfeDY0LXNldHVwLmV4ZQpBVUhLZ3VqeEoyZnZEK0NuU3o5NHN4L2tZdXZNVWdia3F5SFM3Yk5ZYm5zUHZQZzR0Z2dNbXAyblBlY2ljTDhlTHlJcGNaclpncW14NHpSVmcwdWxCZz09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.4.4/EchoFlow_0.4.4_x64-setup.exe"
     }
   }
 }
