@@ -1,11 +1,11 @@
 {
-  "version": "0.4.1",
-  "notes": "Фикс белого экрана при закрытии настроек, min-size окна 640×620",
-  "pub_date": "2026-04-15T10:50:00Z",
+  "version": "0.4.2",
+  "notes": "Native dark titlebar, мгновенный хоткей (кеш подписки), крестик → трей, sticky footer, min-size 720×620",
+  "pub_date": "2026-04-15T12:10:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRk05anV4YUtIWCthVFdqb1hGNFpudSs3c1BNbnZXdWxYbGVSL0wwZVdOQy9LS2xuZU5LSUlsNHZIS085bXZkaTlJbXpRMWg3OEJtNU9uVzJHR3RmVFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTYzODIwCWZpbGU6RWNob0Zsb3dfMC40LjFfeDY0LXNldHVwLmV4ZQpDUGZrNGtyQy9LU0lCZW56em5RZ2tHUGpYTjJkTXZVVDZtaUZhT1o4SjBjZkRpTENKRlhSd0czdEhQdlRCODBRdVpzU1VwcGFwZkhwUGNYL2dKZUJDQT09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.4.1/EchoFlow_0.4.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkJIMXBzT0N2NVk5RmxpMWxQZFJaaG5FTVFkZVllOUV3c3dZWnRzU1MyK2Q1QWdWb0NIMnlaa3FzK1pXVUp4TUdjT2tBSGcxQ09yc3pFUjNGYkVJcVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTY4NjQyCWZpbGU6RWNob0Zsb3dfMC40LjJfeDY0LXNldHVwLmV4ZQp4OUxiS3NHNjNTSXpKVm1lZzk0VmpVamFwVnhRN29RdXZOczZ4ZjNSdnVkQktJTkRZSFpQUjRxWnpJK2x1SzNVLzM2ZklYNkhVak5TTTB5ZkN4Y1ZCUT09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.4.2/EchoFlow_0.4.2_x64-setup.exe"
     }
   }
 }
