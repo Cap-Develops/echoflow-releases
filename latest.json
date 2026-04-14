@@ -1,11 +1,11 @@
 {
-  "version": "0.3.8",
-  "notes": "Редизайн настроек и Правки, Правка вместо Polish, всплывашка обновлений, ты/вы в стилях",
-  "pub_date": "2026-04-15T06:00:00Z",
+  "version": "0.3.9",
+  "notes": "Фикс белого экрана при закрытии настроек",
+  "pub_date": "2026-04-15T07:46:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkZuTFVPMldaSzl3bDZVNGVwMUc4QzMwQlZ2VFduSkI1NksxcFM2b1BFc09KMUh5bisxRWlzb2ZBSWdoSnkvQmRmaUoyT3dySnVINE84SkxoYWowclFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTUwNDQ1CWZpbGU6RWNob0Zsb3dfMC4zLjhfeDY0LXNldHVwLmV4ZQpldHBCRjVDM3d5SmpkUUlhN2h5T3hIUlJFK2wvNVBpMmVoZEFpL0dmQkxHTVN1bVp1MGRUcGNUT0J2c0dUM3AyMVIxN0ROWGJnbHQ0YS91ajJERkhEQT09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.3.8/EchoFlow_0.3.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkVyWGp6QVdhcDZyeVZiVFNuY1RZVlFFbEFMQ2tEUEJReHJHYzVuQm5SaEovdXBwUEFyQXNvcWNoMTRTZk9HMVBaNnNvbFFRZm1kMEFnc3UvRlJieUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTUyNzU4CWZpbGU6RWNob0Zsb3dfMC4zLjlfeDY0LXNldHVwLmV4ZQpZTWo2NVh0WXVtOERmVXVIaFRiNkRmNW90QkdVQkx3d3NmOEJ3QkM5bFhuaW1RR1FaQmh3Vm9pdUxCR2NNSlBVbFllZXBaMCtZbFl1R2NHWndTdUNBZz09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.3.9/EchoFlow_0.3.9_x64-setup.exe"
     }
   }
 }
