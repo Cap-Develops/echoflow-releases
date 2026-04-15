@@ -1,7 +1,7 @@
 {
   "version": "0.5.1",
-  "notes": "Серверный прокси GigaChat, сброс пароля, брендированные письма, фикс клавиш, человечные ошибки auth",
-  "pub_date": "2026-04-15T13:35:59Z",
+  "notes": "Улучшения и исправления",
+  "pub_date": "2026-04-15T13:46:13Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkJnNGJPZFI0Q3BFYVBhQk1TZG9yU0c1NkNlNG1sNmYxdXFIdzErOFNvYnl4STZOS3ZlUWN3d0ViQURuN1FDRm5ycWZxOFdxN2NiMzBaZ0gwaXg5UHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjYwMDU2CWZpbGU6RWNob0Zsb3dfMC41LjFfeDY0LXNldHVwLmV4ZQpaQmE0dFZvZnVWdTJiSWp1dzJjaVhhNjlrMnZMM2Q5anZHUEphVUg3M3VOdHN2UUtid3ZYY1JkQW1XVjZHNEdZQVFQc0N0T2RXQStGYTI5UXR1bnBBdz09Cg==",
