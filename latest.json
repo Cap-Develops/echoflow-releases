@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
-  "notes": "Installer 8.7 МБ (был 163 МБ): STT-модель скачивается при первом запуске",
-  "pub_date": "2026-04-15T14:55:00Z",
+  "version": "0.5.1",
+  "notes": "Серверный прокси GigaChat, сброс пароля, брендированные письма, фикс клавиш, человечные ошибки auth",
+  "pub_date": "2026-04-15T13:35:59Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkpvdExBVzE0VUoyZFRGVG8yQXhjZlpFZEZnd290WC9yVzk5N3NpVjk3cHZUbCtzeU5sNXFzdXdsYzZDZzNHbFhYTmZXS0d1UzZsODRxZGJFZENpdndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTc4NDE1CWZpbGU6RWNob0Zsb3dfMC41LjBfeDY0LXNldHVwLmV4ZQpubWJOdVBVWXdvUzRtd0ZRTkt3WlZTcytTUUg2NFVVRkZMOE1zOTlwNGQ4VjF4dHU1TzByaitvZ2JLclZhdTRVNHlNUjE4NWM0cUFxcTJPV21IbXpEdz09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.5.0/EchoFlow_0.5.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkJnNGJPZFI0Q3BFYVBhQk1TZG9yU0c1NkNlNG1sNmYxdXFIdzErOFNvYnl4STZOS3ZlUWN3d0ViQURuN1FDRm5ycWZxOFdxN2NiMzBaZ0gwaXg5UHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjYwMDU2CWZpbGU6RWNob0Zsb3dfMC41LjFfeDY0LXNldHVwLmV4ZQpaQmE0dFZvZnVWdTJiSWp1dzJjaVhhNjlrMnZMM2Q5anZHUEphVUg3M3VOdHN2UUtid3ZYY1JkQW1XVjZHNEdZQVFQc0N0T2RXQStGYTI5UXR1bnBBdz09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.5.1/EchoFlow_0.5.1_x64-setup.exe"
     }
   }
 }
