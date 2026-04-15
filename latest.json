@@ -1,11 +1,11 @@
 {
-  "version": "0.5.1",
+  "version": "0.5.2",
   "notes": "Улучшения и исправления",
-  "pub_date": "2026-04-15T13:46:13Z",
+  "pub_date": "2026-04-15T13:55:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkJnNGJPZFI0Q3BFYVBhQk1TZG9yU0c1NkNlNG1sNmYxdXFIdzErOFNvYnl4STZOS3ZlUWN3d0ViQURuN1FDRm5ycWZxOFdxN2NiMzBaZ0gwaXg5UHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjYwMDU2CWZpbGU6RWNob0Zsb3dfMC41LjFfeDY0LXNldHVwLmV4ZQpaQmE0dFZvZnVWdTJiSWp1dzJjaVhhNjlrMnZMM2Q5anZHUEphVUg3M3VOdHN2UUtid3ZYY1JkQW1XVjZHNEdZQVFQc0N0T2RXQStGYTI5UXR1bnBBdz09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.5.1/EchoFlow_0.5.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRk1FZUN1NGNJOTdLRFcyUm4rdGh0anhHYlJheFhyS0ttSm9MdjY3NVdZalpEMGYwdHpReFBLTjFNV1pBMkt0VEVWMS83dy91WUthT0g2SmVsbDNkUlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjYxMjM0CWZpbGU6RWNob0Zsb3dfMC41LjJfeDY0LXNldHVwLmV4ZQo4MG9vUGY0ekhEMTdFZWxaVW9hR21CQ0YyaWJMSDRIUnFTbEVIUkI1M0h5Ujg3Sk52aFZpYlVGQUxZcDVkM0tnVnJJK3pSNFhST3p6Qmo1ZEtwblpDdz09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.5.2/EchoFlow_0.5.2_x64-setup.exe"
     }
   }
 }
