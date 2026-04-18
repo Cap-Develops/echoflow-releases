@@ -1,11 +1,11 @@
 {
-  "version": "0.5.6",
-  "notes": "Фикс Smart fallback на диктовках с числами + точный post-processing «номер N», «N:00», точка в конце",
-  "pub_date": "2026-04-18T14:56:36Z",
+  "version": "0.5.7",
+  "notes": "HTTP timeout 30 сек (длинные диктовки) + базовая пунктуация в offline-fallback + SAFE-режим обработки",
+  "pub_date": "2026-04-18T15:47:02Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRlBybk00MUEzdkEvTmNPdHVQVkZySklyNVZLaDFzR3ZDMmVBekIwOWROcmVoK3l3em43N3RPaU5xNm1FSVJNVmpUcFAyYUtGdGkwSlJCOEs1OU43UFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTI0MTk2CWZpbGU6RWNob0Zsb3dfMC41LjZfeDY0LXNldHVwLmV4ZQoxR1UzekN5Q0FUZ3dTT1dodFA5UFBRdXlvMS85TlZwdlZUREJHbWp4R2NQSnY4V1JYMEZoZzJoUWprZmUwRUVlaHFOd29oY0JiTGd2ZE5xZ29SSDVDZz09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.5.6/EchoFlow_0.5.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkVTM1RxQ1VHVWRGc0lUZ3YyRzNYWms3YThiZjZXdmoycXRTMU9GMGhyZ1hmeTJJWjhxbytEaExKMThVSTl4REhCZ05XTlVTaStNSE9PVHdkSWxNSFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTI3MjIyCWZpbGU6RWNob0Zsb3dfMC41LjdfeDY0LXNldHVwLmV4ZQpmRlhrKzhOeW9Vd0VkOU5DRURFTzhvK05TN1ZnaStuUTU4bTVObmUrS0ZBaHFCS0o5Z0U4emplbXdVS0V4aDVmdVU1aGxXL1ZJSWpCd2p2MkFXYndBZz09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.5.7/EchoFlow_0.5.7_x64-setup.exe"
     }
   }
 }
