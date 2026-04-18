@@ -1,11 +1,11 @@
 {
-  "version": "0.5.5",
-  "notes": "Обработка в стиле Wispr Flow / ChatGPT voice + фикс экспорта словаря",
-  "pub_date": "2026-04-18T13:40:10Z",
+  "version": "0.5.6",
+  "notes": "Фикс Smart fallback на диктовках с числами + точный post-processing «номер N», «N:00», точка в конце",
+  "pub_date": "2026-04-18T14:56:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkl1YUxyankrVEVzZWdRME11U2wxekRmd1M5dGpxNzBjaDVxVHNMcktDMW96ODlaN1lQNEU4K1ZmaThieXo2NEpTdThYOEdFNWZOQ290a2Q0NDhweXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTIwODEwCWZpbGU6RWNob0Zsb3dfMC41LjVfeDY0LXNldHVwLmV4ZQo4NU1mQnVCZGhZTUU4Z1UvTmdjTkdHVU5Sd1UrSEV3cEExY1pmWmxWVVlZQ3FUOWlNSG44cnRZUXI5RkxyVWF4M29qdGZVU1RrUHoxTk4rUVRBaTRBUT09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.5.5/EchoFlow_0.5.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRlBybk00MUEzdkEvTmNPdHVQVkZySklyNVZLaDFzR3ZDMmVBekIwOWROcmVoK3l3em43N3RPaU5xNm1FSVJNVmpUcFAyYUtGdGkwSlJCOEs1OU43UFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTI0MTk2CWZpbGU6RWNob0Zsb3dfMC41LjZfeDY0LXNldHVwLmV4ZQoxR1UzekN5Q0FUZ3dTT1dodFA5UFBRdXlvMS85TlZwdlZUREJHbWp4R2NQSnY4V1JYMEZoZzJoUWprZmUwRUVlaHFOd29oY0JiTGd2ZE5xZ29SSDVDZz09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.5.6/EchoFlow_0.5.6_x64-setup.exe"
     }
   }
 }
