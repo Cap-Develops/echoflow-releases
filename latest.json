@@ -1,11 +1,11 @@
 {
-  "version": "0.5.8",
-  "notes": "Кнопка «Написать в поддержку» + скрытие пилюли в простое (с настройкой) + починен автозапуск Windows",
-  "pub_date": "2026-04-19T19:00:00Z",
+  "version": "0.5.9",
+  "notes": "Pre/post-buffer аудио (±200 мс) + installMode passive (фикс зацикленного auto-updater)",
+  "pub_date": "2026-04-19T19:20:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRk5LZDJrNmJSTFJpNzdtWGRPb1laTC9yYjlyZ2tTdU5iOU1rV2ZzRXAzNHBDby9FaTlQcHdLQlB4RFRDZ21ZelNSOWVRWmlrT3gyaUF3K1ppaVpsT2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjI0NjcyCWZpbGU6RWNob0Zsb3dfMC41LjhfeDY0LXNldHVwLmV4ZQppYnlDamczVFJoUWU3WW9uTVBzOXFucmlvOVZWY2RZcy9mejRndzBvNkh2dEpCMTVXeVcydXY5djlGM09rOW50RVRhMy9Qa3hXTDY3VjZFay9LWGhBdz09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.5.8/EchoFlow_0.5.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRk9ydEVGN29HOW9tNmtVa0grRElvN3c2SjRocUNLQkY0V2VmOUhlV1RldHZNU0xFTzRUVm9VeXFLZGFNOHhrL1RpSmdMSkw3dnZZK3dveGZsUFBCUGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjI2MDAxCWZpbGU6RWNob0Zsb3dfMC41LjlfeDY0LXNldHVwLmV4ZQpmK1F1d3BqdC9QNkRFMldVS2R5OEJwSXFXbWtrQnpaVldNQld5KzNVWWFmRmtVREdmVHZxcjZjTGUrU2JGWEZNZWdUUHBEQTFRVFN4cjdBT3pxVENBQT09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.5.9/EchoFlow_0.5.9_x64-setup.exe"
     }
   }
 }
