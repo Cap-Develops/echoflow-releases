@@ -1,11 +1,11 @@
 {
-  "version": "0.5.9",
-  "notes": "Pre/post-buffer аудио (±200 мс) + installMode passive (фикс зацикленного auto-updater)",
-  "pub_date": "2026-04-19T19:20:00Z",
+  "version": "0.6.0",
+  "notes": "Alt+Win для правки текста, окно появляется рядом с курсором, ускорение обработки",
+  "pub_date": "2026-04-23T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRk9ydEVGN29HOW9tNmtVa0grRElvN3c2SjRocUNLQkY0V2VmOUhlV1RldHZNU0xFTzRUVm9VeXFLZGFNOHhrL1RpSmdMSkw3dnZZK3dveGZsUFBCUGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjI2MDAxCWZpbGU6RWNob0Zsb3dfMC41LjlfeDY0LXNldHVwLmV4ZQpmK1F1d3BqdC9QNkRFMldVS2R5OEJwSXFXbWtrQnpaVldNQld5KzNVWWFmRmtVREdmVHZxcjZjTGUrU2JGWEZNZWdUUHBEQTFRVFN4cjdBT3pxVENBQT09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.5.9/EchoFlow_0.5.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkdiK0Rma0Z4UVJtQzAxQld6Vk9MY1NVWEQrNGFpejVxTWVWbkljT0hpUzJUekxjVnZDK1puYjlPWFZPYnRLSzRPaXc0ZGJDK05jM1JDb0NtMnF6dXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODk5NjYzCWZpbGU6RWNob0Zsb3dfMC42LjBfeDY0LXNldHVwLmV4ZQpiTEtMV1IySTFlbmtWVWZrR1I4bGlhZHdOaFFORlZsa2ROaGtWT0ZCYmljSk1Ld2p1U2xEaUQzY3RSNkpLK2RJYzBKV1VEcnI3NXkxNEhvVE5wZXZBQT09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.0/EchoFlow_0.6.0_x64-setup.exe"
     }
   }
 }
