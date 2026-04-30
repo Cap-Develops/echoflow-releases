@@ -1,10 +1,10 @@
 {
   "version": "0.6.0",
-  "notes": "Alt+Win для правки текста, окно появляется рядом с курсором, ускорение обработки",
-  "pub_date": "2026-04-23T00:00:00Z",
+  "notes": "Встроенная форма обратной связи: баги и предложения отправляются прямо из настроек",
+  "pub_date": "2026-04-30T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkdiK0Rma0Z4UVJtQzAxQld6Vk9MY1NVWEQrNGFpejVxTWVWbkljT0hpUzJUekxjVnZDK1puYjlPWFZPYnRLSzRPaXc0ZGJDK05jM1JDb0NtMnF6dXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODk5NjYzCWZpbGU6RWNob0Zsb3dfMC42LjBfeDY0LXNldHVwLmV4ZQpiTEtMV1IySTFlbmtWVWZrR1I4bGlhZHdOaFFORlZsa2ROaGtWT0ZCYmljSk1Ld2p1U2xEaUQzY3RSNkpLK2RJYzBKV1VEcnI3NXkxNEhvVE5wZXZBQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkk1MTZSWWppcnZEOGs3QUFKREtTaWdKeDRlRWpNL0owQnQ2T0EweTdBMkhQbGlnSDA5d1BhMlZQZUlRSWlHb2NmU3htOGhJeExVQjRYWlZyVTliZlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTEwMDA5CWZpbGU6RWNob0Zsb3dfMC42LjBfeDY0LXNldHVwLmV4ZQp2TnEwSzFrNlFOMFVvU3VmR2ZEOU1pRnJRY05hTURZbC83cmN6Ny9RS1Vidk1SdFJGN29lL09hdnd1TmxVVzI1L0cvaUhTNHlFOU1rVU1IaXRPOEtDQT09Cg==",
       "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.0/EchoFlow_0.6.0_x64-setup.exe"
     }
   }
