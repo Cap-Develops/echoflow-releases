@@ -1,11 +1,11 @@
 {
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkllYXpxTG9rZ2t4RUZBWUdNNk1MZUJ2bFRjSjF3VWMxWFp4dUxoclN4K2RlK2U0MjYwWWFCK2EwYVV1VE92VEQyS0FNam5hcEdKcjdHMHVHcDVpOXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTEwMjA5CWZpbGU6RWNob0Zsb3dfMC42LjFfeDY0LXNldHVwLmV4ZQo5ODJuUFVwNm5HaWZGczA5a0h0Sk01NkpNdVFIY1BjdVU4N1BZbjYrRG9tYTZTSWVFeHgzNGkwM20wS3U0ZVFlYXI4WDR4UGRUUDE0amllKzdkUzlDQT09Cg==",
-                                             "url":  "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.1/EchoFlow_0.6.1_x64-setup.exe"
-                                         }
-                  },
-    "pub_date":  "2026-04-30T00:00:00Z",
-    "version":  "0.6.1",
-    "notes":  "Встроенная форма обратной связи: баги и предложения отправляются прямо из настроек"
+  "version": "0.6.1",
+  "notes": "Встроенная форма обратной связи: баги и предложения отправляются прямо из настроек",
+  "pub_date": "2026-04-30T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkllYXpxTG9rZ2t4RUZBWUdNNk1MZUJ2bFRjSjF3VWMxWFp4dUxoclN4K2RlK2U0MjYwWWFCK2EwYVV1VE92VEQyS0FNam5hcEdKcjdHMHVHcDVpOXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTEwMjA5CWZpbGU6RWNob0Zsb3dfMC42LjFfeDY0LXNldHVwLmV4ZQo5ODJuUFVwNm5HaWZGczA5a0h0Sk01NkpNdVFIY1BjdVU4N1BZbjYrRG9tYTZTSWVFeHgzNGkwM20wS3U0ZVFlYXI4WDR4UGRUUDE0amllKzdkUzlDQT09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.1/EchoFlow_0.6.1_x64-setup.exe"
+    }
+  }
 }
