@@ -1,11 +1,11 @@
 {
-  "version": "0.6.2",
-  "notes": "- Живое обновление микрофонов: BT-гарнитуры появляются в списке без перезапуска\n- Фикс аудио Realtek stereo (устранена ошибка WASAPI 0x80070057)\n- Фикс записи с BT-гарнитуры (A2DP→HFP переключение)\n- Таймаут постобработки 8 сек вместо 30 (устраняет длинные задержки при сетевых сбоях)",
-  "pub_date": "2026-06-05T10:45:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkVJYityVW9QRjQ3elRleFVIK3d2MTFjOE82WXliV3NYUEkwQ2RyUnhSRnpmd2pQZWk4NHRGdzQ4NVUyZG5rR1JHQTdkODY5QUxJcmVjK2VFeVpLbndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjU2MDAwCWZpbGU6RWNob0Zsb3dfMC42LjJfeDY0LXNldHVwLmV4ZQpLNXlJK2NBaG1GakhBWEVtQkFzN0lRSGg3dlZ3aU1VTDlwSHp2Q2FLU0Fpekh0VThYd0xtNWxpT2tkRnNKN1lJLy9IR1ZLYUhkQzZkb2NEMjhhek9BQT09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.2/EchoFlow_0.6.2_x64-setup.exe"
-    }
-  }
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkdDS3RWdnJUZzRVRmk0MWhnZEY2OUlBbHFjV2h5WndrcU5mWTFNdFZLTXptV0ppaWp6Y3poWjFBVFJXNEZRd1dDdTRJKzFiZkRkQXQ0VEh2TzJOZUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjY2MjQ4CWZpbGU6RWNob0Zsb3dfMC42LjNfeDY0LXNldHVwLmV4ZQoxc1ZEQ1hSRm4wZ3AzMWo3YVMydVB4ZUg3ZitZRUo5MHZBNXN3S2JNVkovc29tT2orMkhqZlVJUWlvRUJMcm5TWk5SMWR0Q0lteERJRUQyNSs1cTNDZz09Cg==",
+                                             "url":  "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.3/EchoFlow_0.6.3_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-06-05T16:31:49Z",
+    "version":  "0.6.3",
+    "notes":  "Уменьшен таймаут постобработки: 8с -\u003e 5с. Теперь при зависании GigaChat API офлайн-режим включается быстрее."
 }
