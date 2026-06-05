@@ -1,11 +1,11 @@
 {
-  "version": "0.6.1",
-  "notes": "Встроенная форма обратной связи: баги и предложения отправляются прямо из настроек",
-  "pub_date": "2026-04-30T00:00:00Z",
+  "version": "0.6.2",
+  "notes": "- Живое обновление микрофонов: BT-гарнитуры появляются в списке без перезапуска\n- Фикс аудио Realtek stereo (устранена ошибка WASAPI 0x80070057)\n- Фикс записи с BT-гарнитуры (A2DP→HFP переключение)\n- Таймаут постобработки 8 сек вместо 30 (устраняет длинные задержки при сетевых сбоях)",
+  "pub_date": "2026-06-05T10:45:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkd4WnM5NHFNcG4vd2tCOWdVZHJDNC96ZHRYV0RHb3N6QVBKOE52U3N5RjJyVkJLOFM0NDcyRkVWS3liQ2duaEpFZkw4U3M4ZGRhUDVLUzN4ckw5cnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTI2NjE4CWZpbGU6RWNob0Zsb3dfMC42LjFfeDY0LXNldHVwLmV4ZQo0bjZNRXdydTNDQkpQUk43aWJsMmtrTFpMditaUVFScWJQM1NhblllblZOdFB4YzdVNStNZ1E4NXFodWdLRVJuWENvTllHRUtTK2pkYW9zNGRSRG1Edz09Cg==",
-      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.1/EchoFlow_0.6.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkVJYityVW9QRjQ3elRleFVIK3d2MTFjOE82WXliV3NYUEkwQ2RyUnhSRnpmd2pQZWk4NHRGdzQ4NVUyZG5rR1JHQTdkODY5QUxJcmVjK2VFeVpLbndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjU2MDAwCWZpbGU6RWNob0Zsb3dfMC42LjJfeDY0LXNldHVwLmV4ZQpLNXlJK2NBaG1GakhBWEVtQkFzN0lRSGg3dlZ3aU1VTDlwSHp2Q2FLU0Fpekh0VThYd0xtNWxpT2tkRnNKN1lJLy9IR1ZLYUhkQzZkb2NEMjhhek9BQT09Cg==",
+      "url": "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.2/EchoFlow_0.6.2_x64-setup.exe"
     }
   }
 }
