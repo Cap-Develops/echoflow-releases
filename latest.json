@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.4",
-    "notes":  "Стриминговая вставка текста: завершённые предложения вставляются сразу по мере генерации, не дожидаясь конца обработки. Исправлен обрыв длинных диктовок по таймауту (пунктуация больше не теряется на длинных текстах). Защита вставки от смены окна во время генерации. Кеширование промпта GigaChat: быстрее ответ и экономия токенов.",
-    "pub_date":  "2026-07-10T10:29:46Z",
+    "version":  "0.6.5",
+    "notes":  "Исправлена потеря пробела между предложениями при стриминговой вставке. Повторная попытка при обрыве сети - разовые сбои связи больше не отключают пунктуацию. Резервный сервер проверки обновлений: обновления находятся даже когда GitHub недоступен.",
+    "pub_date":  "2026-07-12T20:13:51Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkxJbmtKNWZQZ1FjeWJrTDZaT1h4VGpsbVRlUDNibm8rdnIraVNPMjZPUkxxSDdFQWNYQ1UvaEpPVXgxMmdFOXRRU3Y5OU5WSFNnOTEwUk1GZXZZTFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjc5MzQ0CWZpbGU6RWNob0Zsb3dfMC42LjRfeDY0LXNldHVwLmV4ZQpSV3FiMXJ0TG9ySFFwWVI3YXQycmdXRVB0SW5rdm5BNzB4aFh5L1hCa05kTVpGa3FUSHVGM0NBUms4Q3ZndUoybU1BN0NpL2IrQnhQZUFYaVVNVHpCUT09Cg==",
-                                             "url":  "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.4/EchoFlow_0.6.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRk45b05EZUppRW4wbG9mbHVpMWM5cHBISlU3R2kvY1hTUHdTYkNkQmNFdnNrN3hYQTlER3BRdkhENzExT0dDbzFreGZPN1NOb1dTUHBwQ2w3UGRvOEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODg3MTk1CWZpbGU6RWNob0Zsb3dfMC42LjVfeDY0LXNldHVwLmV4ZQplQ3IwQWNuZVhEdy9kbjlDRnA2VjNPRFJTOUhtVXd5cFRJYVNka3dtWE5kUFhIUnFraVE4aFlxdVVBcm5jU3c2WkpKc3RjVHIrOEMwOGJjajR5RXFEQT09Cg==",
+                                             "url":  "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.5/EchoFlow_0.6.5_x64-setup.exe"
                                          }
                   }
 }
