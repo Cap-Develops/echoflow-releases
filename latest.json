@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.5",
-    "notes":  "Исправлена потеря пробела между предложениями при стриминговой вставке. Повторная попытка при обрыве сети - разовые сбои связи больше не отключают пунктуацию. Резервный сервер проверки обновлений: обновления находятся даже когда GitHub недоступен.",
-    "pub_date":  "2026-07-12T20:13:51Z",
+    "version":  "0.6.6",
+    "notes":  "Исправлено самопроизвольное стирание текста после вставки (обрыв связи посреди генерации теперь лечится повторным запросом без отката текста). Пробел между предложениями печатается клавишей - больше не теряется в полях, обрезающих пробелы при вставке.",
+    "pub_date":  "2026-07-13T07:04:07Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRk45b05EZUppRW4wbG9mbHVpMWM5cHBISlU3R2kvY1hTUHdTYkNkQmNFdnNrN3hYQTlER3BRdkhENzExT0dDbzFreGZPN1NOb1dTUHBwQ2w3UGRvOEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODg3MTk1CWZpbGU6RWNob0Zsb3dfMC42LjVfeDY0LXNldHVwLmV4ZQplQ3IwQWNuZVhEdy9kbjlDRnA2VjNPRFJTOUhtVXd5cFRJYVNka3dtWE5kUFhIUnFraVE4aFlxdVVBcm5jU3c2WkpKc3RjVHIrOEMwOGJjajR5RXFEQT09Cg==",
-                                             "url":  "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.5/EchoFlow_0.6.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRklnVVhUUk9xbm92T0gzS0pXMnZ6RklrQjNsVXBZdTZaU0dvRUtOcjRYOEljOUdqb3Z0aDJiZSs3Z3ZtRElQWkV1UEtseFEwTVBScUJjZEZvQ3QvTFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTI2MjAwCWZpbGU6RWNob0Zsb3dfMC42LjZfeDY0LXNldHVwLmV4ZQorYVFLb1Q2TlFDV3hHZlNFd2wreXoyK1VRbEdFWW5HK21YUmVYc2ZnUkJOQ1NPdzlFUlNBS21hZGZSWFZ1ZnpxYno3SXBLMm9PczVkYVNaSEVpSlREUT09Cg==",
+                                             "url":  "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.6/EchoFlow_0.6.6_x64-setup.exe"
                                          }
                   }
 }
