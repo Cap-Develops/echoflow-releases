@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.6",
-    "notes":  "Исправлено самопроизвольное стирание текста после вставки (обрыв связи посреди генерации теперь лечится повторным запросом без отката текста). Пробел между предложениями печатается клавишей - больше не теряется в полях, обрезающих пробелы при вставке.",
-    "pub_date":  "2026-07-13T07:04:07Z",
+    "version":  "0.6.7",
+    "notes":  "Исправлена потеря первых букв фразы на Bluetooth-гарнитурах (увеличен аудио-буфер). Быстрее старт обработки: соединение с сервером устанавливается заранее, во время диктовки. Исправлено преобразование чисел вида «130 тысяч». Диагностика качества звука в журнале.",
+    "pub_date":  "2026-07-20T11:27:55Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRklnVVhUUk9xbm92T0gzS0pXMnZ6RklrQjNsVXBZdTZaU0dvRUtOcjRYOEljOUdqb3Z0aDJiZSs3Z3ZtRElQWkV1UEtseFEwTVBScUJjZEZvQ3QvTFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTI2MjAwCWZpbGU6RWNob0Zsb3dfMC42LjZfeDY0LXNldHVwLmV4ZQorYVFLb1Q2TlFDV3hHZlNFd2wreXoyK1VRbEdFWW5HK21YUmVYc2ZnUkJOQ1NPdzlFUlNBS21hZGZSWFZ1ZnpxYno3SXBLMm9PczVkYVNaSEVpSlREUT09Cg==",
-                                             "url":  "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.6/EchoFlow_0.6.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRklZSHd1Uk1vSG81WEdxZXdEZnpsWGlCTXEyNnIwRk1yNU03cWFCV0doeHNDMUF6ejZZRXN2akc2NkVSUUFiSnRwbzJtdFRYektqY3QwaDQraENIdFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTQ2ODI0CWZpbGU6RWNob0Zsb3dfMC42LjdfeDY0LXNldHVwLmV4ZQplemg4UXh5bzNkRHFBdmJzSHYxNHVJSmhITkdyUmpQU1pjZ3loWHVqS01DT29qUzRNVTJmRmtudGFyV00vdjVDQ01rMEVYNXlsOWUwbmR5NG9ROG9CQT09Cg==",
+                                             "url":  "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.7/EchoFlow_0.6.7_x64-setup.exe"
                                          }
                   }
 }
