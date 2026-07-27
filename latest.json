@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.7",
-    "notes":  "Исправлена потеря первых букв фразы на Bluetooth-гарнитурах (увеличен аудио-буфер). Быстрее старт обработки: соединение с сервером устанавливается заранее, во время диктовки. Исправлено преобразование чисел вида «130 тысяч». Диагностика качества звука в журнале.",
-    "pub_date":  "2026-07-20T11:27:55Z",
+    "version":  "0.6.8",
+    "notes":  "Устойчивость к нестабильной сети: соединение с сервером поддерживается свежим всю диктовку, устранены сбои с потерей пунктуации при обрывах связи (повтор при занятом сервере).",
+    "pub_date":  "2026-07-27T06:26:57Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRklZSHd1Uk1vSG81WEdxZXdEZnpsWGlCTXEyNnIwRk1yNU03cWFCV0doeHNDMUF6ejZZRXN2akc2NkVSUUFiSnRwbzJtdFRYektqY3QwaDQraENIdFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTQ2ODI0CWZpbGU6RWNob0Zsb3dfMC42LjdfeDY0LXNldHVwLmV4ZQplemg4UXh5bzNkRHFBdmJzSHYxNHVJSmhITkdyUmpQU1pjZ3loWHVqS01DT29qUzRNVTJmRmtudGFyV00vdjVDQ01rMEVYNXlsOWUwbmR5NG9ROG9CQT09Cg==",
-                                             "url":  "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.7/EchoFlow_0.6.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMVVPcXZxWHNDRkZwWVlOTEwwREhBa3F0bUI5a3N3WmpKZkpJN2xRa0twQmlmZFJtZmVLTmJGd0xXYVh1akt0WXM1cUtBR3dUd3F6V25MR05mNGJSazlEWktuRVlLU2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTMzNTkzCWZpbGU6RWNob0Zsb3dfMC42LjhfeDY0LXNldHVwLmV4ZQpsUmhzMkkwajc2ZkdqRVJxeFNyYTVld3BGSkwraCtBN2RlNER5OE5Nem8wYWIxS3NEaXUrNDBRaDMza2s0ZXp6TGtTTlFveVlFaERoNk5iaFFqamdEdz09Cg==",
+                                             "url":  "https://github.com/Cap-Develops/echoflow-releases/releases/download/v0.6.8/EchoFlow_0.6.8_x64-setup.exe"
                                          }
                   }
 }
